@@ -1,0 +1,6 @@
+# ignore
+data/*
+
+# except
+!.gitignore
+!data/sample_data.csv
